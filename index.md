@@ -1,10 +1,13 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Python - API 
+## Python - API 
 
-[Ant colony optimization - Google Map API](/aco-map-api.md)
+### [Ant colony optimization - Google Map API](/aco-map-api.md)
+
+This repository contains a Python Flask API that utilizes the Ant Colony Optimization (ACO) algorithm in conjunction with the Google Maps API to determine the shortest routes among multiple locations.
+
 <img src="images/acomap.png?raw=true"/>
 
 ---
