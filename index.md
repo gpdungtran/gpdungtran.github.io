@@ -4,7 +4,7 @@
 
 ### Python - API 
 
-[Ant colony optimization - Google Map API](/sample_page)
+[Ant colony optimization - Google Map API](/aco-map-api.md)
 <img src="images/acomap.png?raw=true"/>
 
 ---
