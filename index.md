@@ -11,7 +11,11 @@ This repository contains a Python Flask API that utilizes the Ant Colony Optimiz
 <img src="images/acomap.png?raw=true"/>
 
 ---
-[NBA Talk Fantasy Basketball](/pdf/sample_presentation.pdf)
+
+### [Yahoo Fantasy Basketball Stats & Roto Rank App](/pdf/sample_presentation.pdf)
+
+This Jupyter Notebook application provides tools for managing and analyzing your Yahoo Fantasy Basketball league. It leverages the `yahoo_oauth` library to access league data and generates weekly stats tables and roto rank tables.
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
