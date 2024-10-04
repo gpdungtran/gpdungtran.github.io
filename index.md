@@ -12,15 +12,19 @@ This repository contains a Python Flask API that utilizes the Ant Colony Optimiz
 
 ---
 
-### [Yahoo Fantasy Basketball Stats & Roto Rank App](/pdf/sample_presentation.pdf)
+### [Yahoo Fantasy Basketball Stats & Roto Rank App](/NBA-Talk-Fantasy-Basketball.md)
 
 This Jupyter Notebook application provides tools for managing and analyzing your Yahoo Fantasy Basketball league. It leverages the `yahoo_oauth` library to access league data and generates weekly stats tables and roto rank tables.
 
 <img src="images/fantasy.png?raw=true"/>
 
 ---
-[Car Price Prediction](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Car Price Prediction](/pdf/carprice.pdf)
+
+The application for predicting car price depending on travel distance, integrity and color using leanear and logistic linear model.
+The original car price can be obtained by using scrapy library
+
+<img src="images/car.png?raw=true"/>
 
 ---
 
