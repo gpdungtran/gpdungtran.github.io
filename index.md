@@ -5,7 +5,7 @@
 ### Python - API 
 
 [Ant colony optimization - Google Map API](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/acomap.png?raw=true"/>
 
 ---
 [NBA Talk Fantasy Basketball](/pdf/sample_presentation.pdf)
