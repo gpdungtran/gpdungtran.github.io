@@ -30,19 +30,19 @@ The original car price can be obtained by using scrapy library
 
 ## Azure AI Services
 
-### [Customvision - Trash Segregation](/pdf/carprice.pdf)
+### [Customvision - Trash Segregation](/pdf/trashcam.pdf)
 
 The application can detect and segment different types of waste through a smart camera attached to the trash can. The mobile application TrashCam will receive real-time images, using Microsoft Azure's Custom Vision service to analyze and classify the images captured by the cameras.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/trashcam.png?raw=true"/>
 
 ---
 
 
 ## Material Science
 
-### [Ferroelectric material phase-field simulation](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Ferroelectric material phase-field simulation](/pdf/phasefield.pdf)
+<img src="images/phasefield.png?raw=true"/>
 
 ---
 
