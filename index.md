@@ -4,7 +4,7 @@
 
 ## Python - API 
 
-### [Ant colony optimization - Google Map API](/aco-map-api.md)
+### [Ant colony optimization - Google Map API](/pdf/ACO-MAP.pdf)
 
 This repository contains a Python Flask API that utilizes the Ant Colony Optimization (ACO) algorithm in conjunction with the Google Maps API to determine the shortest routes among multiple locations.
 
@@ -28,24 +28,20 @@ The original car price can be obtained by using scrapy library
 
 ---
 
-### Azure AI Services
+## Azure AI Services
 
-[Customvision - Trash Segregation](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Customvision - Trash Segregation](/pdf/carprice.pdf)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The application can detect and segment different types of waste through a smart camera attached to the trash can. The mobile application TrashCam will receive real-time images, using Microsoft Azure's Custom Vision service to analyze and classify the images captured by the cameras.
 
----
-[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Material Science
 
-[Ferroelectric material phase-field simulation](/sample_page)
+## Material Science
+
+### [Ferroelectric material phase-field simulation](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
